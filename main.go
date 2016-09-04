@@ -6,7 +6,7 @@ import (
 
 	"gopkg.in/urfave/cli.v1"
 	"github.com/codegangsta/envy/lib"
-	"github.com/omeid/gin/lib"
+	"github.com/random-j-farmer/gin/lib"
 
 	"log"
 	"os"
